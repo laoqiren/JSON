@@ -1,0 +1,24 @@
+{
+  "name": "json",
+  "version": "1.0.0",
+  "description": "json decoder & encoder",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laoqiren/JSON.git"
+  },
+  "keywords": [
+    "json",
+    "parser",
+    "encoder"
+  ],
+  "author": "laoqiren",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/laoqiren/JSON/issues"
+  },
+  "homepage": "https://github.com/laoqiren/JSON#readme"
+}
