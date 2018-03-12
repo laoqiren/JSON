@@ -6,7 +6,7 @@ json decoder &amp; encoder
 
 ```js
 const assert = require('assert');
-const {encode,decode} = require('./main.js);
+const {encode,decode} = require('./main.js');
 
 const obj = {
   str: 'hello world',
