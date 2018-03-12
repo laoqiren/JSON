@@ -21,3 +21,10 @@ const obj = decode(jsonStr);
 
 assert.deepEqual(json,obj);
 ```
+
+
+## test
+
+```
+$ npm run test
+```
