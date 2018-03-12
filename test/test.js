@@ -4,6 +4,7 @@ const {encode,decode} = require('../main.js');
 const json = {
     string: 'hello world',
     number: 100,
+    arr: [1,6,"hello"],
     date: new Date(),
     buf: new Buffer('hello world')
 };
